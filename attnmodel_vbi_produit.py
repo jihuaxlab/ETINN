@@ -466,7 +466,7 @@ class ProbeMessageModel(nn.Module):
             dim=0,
         )
         edge_offset = edge_offset[:, None, None]
-        # print(edge_offset, edge_offset.shape) # => tensor([[[ 0]], [[第一个分子原子数]], [[第二个分子原子数]]], device='cuda:1') torch.Size([2, 1, 1])
+        # print(edge_offset, edge_offset.shape) # => tensor([[[ 0]], [[The number of atoms in the first molecule]], [[The number of atoms in the second molecule]]], device='cuda:1') torch.Size([2, 1, 1])
         # print("input_dict edge_offset", edge_offset, edge_offset.shape)
         # input_dict["probe_edges_displacement"] pad to max shape  torch.Size([batch_size, max atom in batch, 3])
         # input_dict["num_probe_edges"] records the specific displacement of each molecule, which is a one-dimensional vector
