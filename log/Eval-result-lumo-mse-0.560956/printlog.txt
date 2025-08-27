@@ -1,0 +1,370 @@
+2025-08-27 10:27:35,120 [DEBUG]  Computing atom-to-atom graph
+2025-08-27 10:27:35,134 [DEBUG]  Computing atom representation
+2025-08-27 10:27:35,152 [DEBUG]  Atom representation done
+2025-08-27 10:27:35,164 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:27:35,170 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:27:35,175 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:27:35,180 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:27:35,185 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:27:35,190 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:27:36,237 [INFO ]  done time_elapsed=1.117206
+2025-08-27 10:27:36,244 [DEBUG]  Computing atom-to-atom graph
+2025-08-27 10:27:36,275 [DEBUG]  Computing atom representation
+2025-08-27 10:27:36,296 [DEBUG]  Atom representation done
+2025-08-27 10:27:36,307 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:27:36,313 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:27:36,319 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:27:36,324 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:27:36,329 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:27:36,334 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:27:37,412 [INFO ]  done time_elapsed=1.167429
+2025-08-27 10:27:37,418 [DEBUG]  Computing atom-to-atom graph
+2025-08-27 10:27:37,439 [DEBUG]  Computing atom representation
+2025-08-27 10:27:37,457 [DEBUG]  Atom representation done
+2025-08-27 10:27:37,470 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:27:37,474 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:27:37,480 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:27:37,485 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:27:37,490 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:27:37,495 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:27:38,546 [INFO ]  done time_elapsed=1.128059
+2025-08-27 10:27:38,552 [DEBUG]  Computing atom-to-atom graph
+2025-08-27 10:27:38,602 [DEBUG]  Computing atom representation
+2025-08-27 10:27:38,658 [DEBUG]  Atom representation done
+2025-08-27 10:27:38,668 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:27:38,675 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:27:38,681 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:27:38,686 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:27:38,691 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:27:38,696 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:27:39,811 [INFO ]  done time_elapsed=1.259536
+2025-08-27 10:27:39,818 [DEBUG]  Computing atom-to-atom graph
+2025-08-27 10:27:39,871 [DEBUG]  Computing atom representation
+2025-08-27 10:27:39,929 [DEBUG]  Atom representation done
+2025-08-27 10:27:39,941 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:27:39,952 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:27:39,959 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:27:39,966 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:27:39,972 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:27:39,977 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:27:41,084 [INFO ]  done time_elapsed=1.265089
+2025-08-27 10:27:41,090 [DEBUG]  Computing atom-to-atom graph
+2025-08-27 10:27:41,107 [DEBUG]  Computing atom representation
+2025-08-27 10:27:41,130 [DEBUG]  Atom representation done
+2025-08-27 10:27:41,149 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:27:41,160 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:27:41,168 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:27:41,174 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:27:41,180 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:27:41,185 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:27:42,214 [INFO ]  done time_elapsed=1.123672
+2025-08-27 10:27:42,221 [DEBUG]  Computing atom-to-atom graph
+2025-08-27 10:27:42,261 [DEBUG]  Computing atom representation
+2025-08-27 10:27:42,291 [DEBUG]  Atom representation done
+2025-08-27 10:27:42,302 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:27:42,311 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:27:42,315 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:27:42,323 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:27:42,327 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:27:42,333 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:27:43,404 [INFO ]  done time_elapsed=1.183005
+2025-08-27 10:27:43,411 [DEBUG]  Computing atom-to-atom graph
+2025-08-27 10:27:43,454 [DEBUG]  Computing atom representation
+2025-08-27 10:27:43,501 [DEBUG]  Atom representation done
+2025-08-27 10:27:43,516 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:27:43,525 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:27:43,532 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:27:43,538 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:27:43,543 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:27:43,550 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:27:44,624 [INFO ]  done time_elapsed=1.212832
+2025-08-27 10:27:44,630 [DEBUG]  Computing atom-to-atom graph
+2025-08-27 10:27:44,664 [DEBUG]  Computing atom representation
+2025-08-27 10:27:44,688 [DEBUG]  Atom representation done
+2025-08-27 10:27:44,698 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:27:44,706 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:27:44,711 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:27:44,716 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:27:44,723 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:27:44,726 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:27:45,778 [INFO ]  done time_elapsed=1.147231
+2025-08-27 10:27:45,783 [DEBUG]  Computing atom-to-atom graph
+2025-08-27 10:27:45,811 [DEBUG]  Computing atom representation
+2025-08-27 10:27:45,905 [DEBUG]  Atom representation done
+2025-08-27 10:27:45,916 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:27:45,924 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:27:45,928 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:27:45,934 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:27:45,939 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:27:45,945 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:27:46,989 [INFO ]  done time_elapsed=1.206103
+2025-08-27 10:27:46,997 [DEBUG]  Computing atom-to-atom graph
+2025-08-27 10:27:47,080 [DEBUG]  Computing atom representation
+2025-08-27 10:27:47,127 [DEBUG]  Atom representation done
+2025-08-27 10:27:47,137 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:27:47,145 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:27:47,149 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:27:47,157 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:27:47,161 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:27:47,167 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:27:48,358 [INFO ]  done time_elapsed=1.360977
+2025-08-27 10:27:48,364 [DEBUG]  Computing atom-to-atom graph
+2025-08-27 10:27:48,387 [DEBUG]  Computing atom representation
+2025-08-27 10:27:48,431 [DEBUG]  Atom representation done
+2025-08-27 10:27:48,441 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:27:48,449 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:27:48,454 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:27:48,459 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:27:48,465 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:27:48,470 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:27:49,498 [INFO ]  done time_elapsed=1.133797
+2025-08-27 10:27:49,504 [DEBUG]  Computing atom-to-atom graph
+2025-08-27 10:27:49,533 [DEBUG]  Computing atom representation
+2025-08-27 10:27:49,601 [DEBUG]  Atom representation done
+2025-08-27 10:27:49,611 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:27:49,618 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:27:49,624 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:27:49,629 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:27:49,635 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:27:49,639 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:27:50,688 [INFO ]  done time_elapsed=1.184360
+2025-08-27 10:27:50,695 [DEBUG]  Computing atom-to-atom graph
+2025-08-27 10:27:50,721 [DEBUG]  Computing atom representation
+2025-08-27 10:27:50,748 [DEBUG]  Atom representation done
+2025-08-27 10:27:50,760 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:27:50,770 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:27:50,773 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:27:50,781 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:27:50,785 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:27:50,791 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:27:51,825 [INFO ]  done time_elapsed=1.130686
+2025-08-27 10:27:51,832 [DEBUG]  Computing atom-to-atom graph
+2025-08-27 10:27:51,881 [DEBUG]  Computing atom representation
+2025-08-27 10:27:51,927 [DEBUG]  Atom representation done
+2025-08-27 10:27:51,939 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:27:51,946 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:27:51,952 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:27:51,959 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:27:51,963 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:27:51,968 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:27:53,070 [INFO ]  done time_elapsed=1.237441
+2025-08-27 10:27:53,077 [DEBUG]  Computing atom-to-atom graph
+2025-08-27 10:27:53,124 [DEBUG]  Computing atom representation
+2025-08-27 10:27:53,189 [DEBUG]  Atom representation done
+2025-08-27 10:27:53,199 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:27:53,207 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:27:53,212 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:27:53,218 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:27:53,223 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:27:53,228 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:27:54,322 [INFO ]  done time_elapsed=1.245545
+2025-08-27 10:27:54,329 [DEBUG]  Computing atom-to-atom graph
+2025-08-27 10:27:54,374 [DEBUG]  Computing atom representation
+2025-08-27 10:27:54,401 [DEBUG]  Atom representation done
+2025-08-27 10:27:54,412 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:27:54,419 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:27:54,425 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:27:54,431 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:27:54,437 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:27:54,442 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:27:55,519 [INFO ]  done time_elapsed=1.190198
+2025-08-27 10:27:55,526 [DEBUG]  Computing atom-to-atom graph
+2025-08-27 10:27:55,576 [DEBUG]  Computing atom representation
+2025-08-27 10:27:55,602 [DEBUG]  Atom representation done
+2025-08-27 10:27:55,612 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:27:55,622 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:27:55,625 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:27:55,633 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:27:55,637 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:27:55,644 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:27:56,730 [INFO ]  done time_elapsed=1.204131
+2025-08-27 10:27:56,737 [DEBUG]  Computing atom-to-atom graph
+2025-08-27 10:27:56,792 [DEBUG]  Computing atom representation
+2025-08-27 10:27:56,851 [DEBUG]  Atom representation done
+2025-08-27 10:27:56,862 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:27:56,872 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:27:56,876 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:27:56,883 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:27:56,888 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:27:56,894 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:27:57,996 [INFO ]  done time_elapsed=1.258278
+2025-08-27 10:27:58,003 [DEBUG]  Computing atom-to-atom graph
+2025-08-27 10:27:58,041 [DEBUG]  Computing atom representation
+2025-08-27 10:27:58,101 [DEBUG]  Atom representation done
+2025-08-27 10:27:58,112 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:27:58,120 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:27:58,126 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:27:58,132 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:27:58,137 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:27:58,143 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:27:59,213 [INFO ]  done time_elapsed=1.209599
+2025-08-27 10:27:59,219 [DEBUG]  Computing atom-to-atom graph
+2025-08-27 10:27:59,259 [DEBUG]  Computing atom representation
+2025-08-27 10:27:59,290 [DEBUG]  Atom representation done
+2025-08-27 10:27:59,300 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:27:59,308 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:27:59,313 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:27:59,319 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:27:59,324 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:27:59,328 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:28:00,411 [INFO ]  done time_elapsed=1.191889
+2025-08-27 10:28:00,418 [DEBUG]  Computing atom-to-atom graph
+2025-08-27 10:28:00,455 [DEBUG]  Computing atom representation
+2025-08-27 10:28:00,493 [DEBUG]  Atom representation done
+2025-08-27 10:28:00,504 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:28:00,511 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:28:00,517 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:28:00,523 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:28:00,527 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:28:00,533 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:28:01,599 [INFO ]  done time_elapsed=1.181353
+2025-08-27 10:28:01,606 [DEBUG]  Computing atom-to-atom graph
+2025-08-27 10:28:01,643 [DEBUG]  Computing atom representation
+2025-08-27 10:28:01,694 [DEBUG]  Atom representation done
+2025-08-27 10:28:01,709 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:28:01,718 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:28:01,724 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:28:01,731 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:28:01,736 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:28:01,741 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:28:02,804 [INFO ]  done time_elapsed=1.198103
+2025-08-27 10:28:02,813 [DEBUG]  Computing atom-to-atom graph
+2025-08-27 10:28:02,903 [DEBUG]  Computing atom representation
+2025-08-27 10:28:02,945 [DEBUG]  Atom representation done
+2025-08-27 10:28:02,956 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:28:02,964 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:28:02,968 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:28:02,976 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:28:02,980 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:28:02,987 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:28:04,196 [INFO ]  done time_elapsed=1.383072
+2025-08-27 10:28:04,201 [DEBUG]  Computing atom-to-atom graph
+2025-08-27 10:28:04,234 [DEBUG]  Computing atom representation
+2025-08-27 10:28:04,277 [DEBUG]  Atom representation done
+2025-08-27 10:28:04,288 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:28:04,295 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:28:04,300 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:28:04,306 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:28:04,311 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:28:04,316 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:28:05,378 [INFO ]  done time_elapsed=1.176248
+2025-08-27 10:28:05,385 [DEBUG]  Computing atom-to-atom graph
+2025-08-27 10:28:05,440 [DEBUG]  Computing atom representation
+2025-08-27 10:28:05,468 [DEBUG]  Atom representation done
+2025-08-27 10:28:05,478 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:28:05,487 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:28:05,491 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:28:05,499 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:28:05,504 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:28:05,509 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:28:06,609 [INFO ]  done time_elapsed=1.223892
+2025-08-27 10:28:06,616 [DEBUG]  Computing atom-to-atom graph
+2025-08-27 10:28:06,655 [DEBUG]  Computing atom representation
+2025-08-27 10:28:06,703 [DEBUG]  Atom representation done
+2025-08-27 10:28:06,714 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:28:06,723 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:28:06,727 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:28:06,733 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:28:06,737 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:28:06,743 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:28:07,843 [INFO ]  done time_elapsed=1.226888
+2025-08-27 10:28:07,850 [DEBUG]  Computing atom-to-atom graph
+2025-08-27 10:28:07,881 [DEBUG]  Computing atom representation
+2025-08-27 10:28:07,902 [DEBUG]  Atom representation done
+2025-08-27 10:28:07,912 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:28:07,919 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:28:07,925 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:28:07,931 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:28:07,935 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:28:07,940 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:28:08,995 [INFO ]  done time_elapsed=1.145793
+2025-08-27 10:28:09,007 [DEBUG]  Computing atom-to-atom graph
+2025-08-27 10:28:09,194 [DEBUG]  Computing atom representation
+2025-08-27 10:28:09,251 [DEBUG]  Atom representation done
+2025-08-27 10:28:09,260 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:28:09,269 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:28:09,273 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:28:09,281 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:28:09,285 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:28:09,292 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:28:10,842 [INFO ]  done time_elapsed=1.834804
+2025-08-27 10:28:10,850 [DEBUG]  Computing atom-to-atom graph
+2025-08-27 10:28:10,912 [DEBUG]  Computing atom representation
+2025-08-27 10:28:10,938 [DEBUG]  Atom representation done
+2025-08-27 10:28:10,951 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:28:10,958 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:28:10,964 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:28:10,970 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:28:10,975 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:28:10,979 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:28:12,118 [INFO ]  done time_elapsed=1.267892
+2025-08-27 10:28:12,125 [DEBUG]  Computing atom-to-atom graph
+2025-08-27 10:28:12,179 [DEBUG]  Computing atom representation
+2025-08-27 10:28:12,227 [DEBUG]  Atom representation done
+2025-08-27 10:28:12,242 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:28:12,255 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:28:12,263 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:28:12,269 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:28:12,277 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:28:12,283 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:28:13,396 [INFO ]  done time_elapsed=1.271531
+2025-08-27 10:28:13,403 [DEBUG]  Computing atom-to-atom graph
+2025-08-27 10:28:13,439 [DEBUG]  Computing atom representation
+2025-08-27 10:28:13,480 [DEBUG]  Atom representation done
+2025-08-27 10:28:13,491 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:28:13,498 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:28:13,505 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:28:13,511 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:28:13,515 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:28:13,521 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:28:14,585 [INFO ]  done time_elapsed=1.182521
+2025-08-27 10:28:14,592 [DEBUG]  Computing atom-to-atom graph
+2025-08-27 10:28:14,630 [DEBUG]  Computing atom representation
+2025-08-27 10:28:14,698 [DEBUG]  Atom representation done
+2025-08-27 10:28:14,708 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:28:14,715 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:28:14,721 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:28:14,727 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:28:14,732 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:28:14,738 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:28:15,813 [INFO ]  done time_elapsed=1.220832
+2025-08-27 10:28:15,820 [DEBUG]  Computing atom-to-atom graph
+2025-08-27 10:28:15,871 [DEBUG]  Computing atom representation
+2025-08-27 10:28:15,895 [DEBUG]  Atom representation done
+2025-08-27 10:28:15,905 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:28:15,914 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:28:15,920 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:28:15,926 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:28:15,931 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:28:15,937 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:28:17,039 [INFO ]  done time_elapsed=1.219021
+2025-08-27 10:28:17,045 [DEBUG]  Computing atom-to-atom graph
+2025-08-27 10:28:17,072 [DEBUG]  Computing atom representation
+2025-08-27 10:28:17,117 [DEBUG]  Atom representation done
+2025-08-27 10:28:17,135 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:28:17,146 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:28:17,154 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:28:17,161 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:28:17,167 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:28:17,173 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Basics/NeighborCellLocator.cpp:351: virtual void AsapNS::NeighborCellLocator::MakeList(): Assertion 'k >= 0' failed.
+2025-08-27 10:28:18,213 [INFO ]  done time_elapsed=1.167134
+2025-08-27 10:28:18,219 [DEBUG]  Computing atom-to-atom graph
+2025-08-27 10:28:18,246 [DEBUG]  Computing atom representation
+2025-08-27 10:28:18,280 [DEBUG]  Atom representation done
+2025-08-27 10:28:18,292 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:28:18,299 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:28:18,307 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:28:18,313 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:28:18,320 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:28:18,326 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:28:19,360 [INFO ]  done time_elapsed=1.140861
+2025-08-27 10:28:19,368 [DEBUG]  Computing atom-to-atom graph
+2025-08-27 10:28:19,399 [DEBUG]  Computing atom representation
+2025-08-27 10:28:19,458 [DEBUG]  Atom representation done
+2025-08-27 10:28:19,471 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:28:19,479 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:28:19,487 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:28:19,494 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:28:19,501 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:28:19,507 [INFO ]  Failed to create asap3 neighborlist, this might be very slow. Error: Invalid unit cell: One or more vectors has zero length.
+2025-08-27 10:28:20,556 [INFO ]  done time_elapsed=1.188268
