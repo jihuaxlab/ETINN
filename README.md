@@ -47,5 +47,5 @@ follow the steps below in the folder ETINN
 The script will generate images of saliency maps in the output folder.
 
 ## Data <a name="data"></a>
-We collected a total of 733 published literature on TADF molecular materials, and recorded the xyz and DFT-calculated related properties of HOMO-LUMO distributions.
+We collected a total of 733 published literatures on TADF molecular materials, and recorded the xyz and DFT-calculated related properties of HOMO-LUMO distributions.
 The data file can be found in the file folder ./data
