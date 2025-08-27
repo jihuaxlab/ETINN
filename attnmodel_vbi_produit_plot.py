@@ -173,25 +173,22 @@ class Attention(nn.Module):
         v = self.norm_v(v)
 
         if plot_attn:
-            # 假设 Q, K, V 是已经计算好的张量，形状为 [batch, head数量, nm个token, d长度的特征]
-            d_k = q.shape[-1]  # 注意力头的维度
+            # Suppose Q, K, and V are the already calculated tensors, with the shape of [batch, the number of heads, nm tokens, the feature of d length]
+            d_k = q.shape[-1]  # shape of heads
        
-            # 计算点积并缩放
+            # cal attention
             attn_scores = torch.matmul(q, k.transpose(-2, -1)) / math.sqrt(d_k)
-        #     # 应用Softmax
-            attn_probs = F.softmax(attn_scores, dim=-1)  # dim=-1 是 每行求平均
+            attn_probs = F.softmax(attn_scores, dim=-1)  # dim=-1 line avg
             # print(attn_probs.shape) # (batch, head, n_atom, n_atom)
        
             reg_attn = torch.mean(attn_probs, dim=1).cpu()
             # print(reg_attn.shape) torch.Size([1, n_atom, n_atom])
-            # 取出制定行
             attn_value = reg_attn[0]
             # print(attn_value.shape) # torch.Size([n_atom])
             attn_value_list = attn_value.tolist()
 
             attn_value_json = json.dumps(attn_value_list)
 
-            # 将JSON字符串保存到文件
             with open(os.path.join(log_dir_path, 'layer{}_vbi_produit_value.json'), 'w') as f:
                 json.dump(attn_value_list, f)
 
@@ -205,19 +202,16 @@ class Attention(nn.Module):
             plt.close()
             plt.figure()
 
-            # 计算每列的和
             column_sums = torch.sum(img_data, axis=0)
-            # 计算每列和的比例
             total_sum = torch.sum(column_sums)
             column_percentages = column_sums / total_sum
             column_percentages = column_percentages.numpy()
             
-            # 绘制柱状图
             plt.bar(range(img_size), column_percentages)
             plt.xlabel('Atom Index')
-            # plt.xticks(range(img_size))  # 设置 x 轴刻度标记
+            # plt.xticks(range(img_size))  
             # plt.xticks(rotation=90)
-            plt.savefig(os.path.join(log_dir_path, f'layer{self.id_}_vbi_produit_w_distribution_{time.time()}.png'), bbox_inches='tight', pad_inches=0, dpi=300)  # 保存图像，可调整dpi以改变清晰度
+            plt.savefig(os.path.join(log_dir_path, f'layer{self.id_}_vbi_produit_w_distribution_{time.time()}.png'), bbox_inches='tight', pad_inches=0, dpi=300)  
             plt.close()
 
             np.save(os.path.join(log_dir_path, f'layer{self.id_}_vbi_produit_w_data_{time.time()}.npy'), column_percentages)
@@ -540,14 +534,7 @@ class ProbeMessageModel(nn.Module):
             dim=0,
         )
         edge_offset = edge_offset[:, None, None]
-        # print(edge_offset, edge_offset.shape) # => tensor([[[ 0]], [[第一个分子原子数]], [[第二个分子原子数]]], device='cuda:1') torch.Size([2, 1, 1])
-        # print("input_dict edge_offset", edge_offset, edge_offset.shape)
-        # input_dict["probe_edges_displacement"] pad 到了最大shape  torch.Size([batch_size, max atom in batch, 3])
-        # input_dict["num_probe_edges"] 记录的是每个分子具体有多少 displacement 是一维向量
-        #
-        # print("input_dict probe_edges_displacement", input_dict["probe_edges_displacement"].shape)
-        # print("input_dict num_probe_edges", input_dict["num_probe_edges"])
-        # Unpad and concatenate probe edges into batch (0th) dimension
+
         probe_edges_displacement = layer.unpad_and_cat(
             input_dict["probe_edges_displacement"], input_dict["num_probe_edges"]
         )
@@ -646,7 +633,7 @@ class ProbeMessageModel(nn.Module):
         # Restack probe states
         probe_output = self.readout_function(probe_state).squeeze(1)
 
-        # print("probe_state.shape:", probe_state.shape) # => torch.Size([xxx, 128])  xxx: 原子数量
+        # print("probe_state.shape:", probe_state.shape) # => torch.Size([xxx, 128])  
         transformer_input = probe_state.unsqueeze(0)
         # print("transformer_input.shape:", transformer_input.shape)  # => torch.Size([1, xxx, 128])
 
@@ -1084,7 +1071,7 @@ class PainnProbeMessageModel(nn.Module):
         # Restack probe states
         probe_output = self.readout_function(probe_state).squeeze(1)
 
-        # print("probe_state.shape:", probe_state.shape) # => torch.Size([xxx, 128])  xxx: 原子数量
+        # print("probe_state.shape:", probe_state.shape) # => torch.Size([xxx, 128])  
         transformer_input = probe_state.unsqueeze(0)
         # print("transformer_input.shape:", transformer_input.shape)  # => torch.Size([1, xxx, 128])
 
