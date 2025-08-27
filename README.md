@@ -32,6 +32,7 @@ follow the steps below in the folder ETINN
 2 Testing: run python ETINN_eval.py path_to_your_model --data path_to_xyz_files --labels path_to_labels
 
 3 Check saliency maps: run python ETINN_eval_check_attn.py 'obj-mol-name' path_to_your_model --labels path_to_labels --data path_to_xyz_files --output_dir output_path
+
 The script will generate images of saliency maps in the output folder.
 
 ## Data <a name="data"></a>
