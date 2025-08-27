@@ -3,9 +3,16 @@ Cognitive Mimetics for Molecular Electronic Structure
 
 ## Table of Contents
 
-1. [Dependencies](#setup)      
-2. [Quick start](#quickstart)   
-3. [Data](#data)  
+1. [Introduction](#introduction)   
+2. [Dependencies](#setup)      
+3. [Quick start](#quickstart)   
+4. [Data](#data)
+
+## Introduction <a name="introduction"></a>
+The typical gaze trajectories presented in the figure below illustrate the subject's cognitive process regarding the electronic structure of D-A structured TADF material molecules. They depict the subject's visual information acquisition concerning the donor and acceptor moieties, the bridging groups connecting them, key modifying substituents, and the subsequent information synthesis within the HOMO distribution regions.
+
+During molecular observation, participants exhibited numerous fixations and saccades. A fixation refers to an aggregation during stabilization periods ≥200 ms, while saccades represent rapid eye movements between fixations (30-80 ms). We identified a distinctive visual behavior characterized by significant velocity reduction when visual attention traversed specific areas of interest. These areas consistently showed directional deviations in gaze movement or repeated back-and-forth movements in gaze paths. We term these regions Decelerated Saccade Zones (DSZs). Experimentally, we observed that DSZs primarily occurred in regions connecting donor (D) and acceptor (A) groups, as well as their critical modification sites. Fixations and DSZs were consistently occurred across all trials, indicating their fundamental role in participants' cognition of FMOs. Temporal analysis revealed distinct attentional phases. Based on the analysis results, we established the ETINN model to reproduce their multi-stage feature processing for a better understanding of molecular electronic structure.
+
 
 ## Dependencies <a name="setup"></a>
 After git cloning the repository, the environment that the ETINN model depends on is as follows:
