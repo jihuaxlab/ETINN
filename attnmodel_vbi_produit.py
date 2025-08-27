@@ -468,8 +468,8 @@ class ProbeMessageModel(nn.Module):
         edge_offset = edge_offset[:, None, None]
         # print(edge_offset, edge_offset.shape) # => tensor([[[ 0]], [[第一个分子原子数]], [[第二个分子原子数]]], device='cuda:1') torch.Size([2, 1, 1])
         # print("input_dict edge_offset", edge_offset, edge_offset.shape)
-        # input_dict["probe_edges_displacement"] pad 到了最大shape  torch.Size([batch_size, max atom in batch, 3])
-        # input_dict["num_probe_edges"] 记录的是每个分子具体有多少 displacement 是一维向量
+        # input_dict["probe_edges_displacement"] pad to max shape  torch.Size([batch_size, max atom in batch, 3])
+        # input_dict["num_probe_edges"] records the specific displacement of each molecule, which is a one-dimensional vector
         #
         # print("input_dict probe_edges_displacement", input_dict["probe_edges_displacement"].shape)
         # print("input_dict num_probe_edges", input_dict["num_probe_edges"])
@@ -572,7 +572,7 @@ class ProbeMessageModel(nn.Module):
         # Restack probe states
         probe_output = self.readout_function(probe_state).squeeze(1)
 
-        # print("probe_state.shape:", probe_state.shape) # => torch.Size([xxx, 128])  xxx: 原子数量
+        # print("probe_state.shape:", probe_state.shape) # => torch.Size([xxx, 128])  xxx: num atoms
         transformer_input = probe_state.unsqueeze(0)
         # print("transformer_input.shape:", transformer_input.shape)  # => torch.Size([1, xxx, 128])
 
@@ -1009,7 +1009,7 @@ class PainnProbeMessageModel(nn.Module):
         # Restack probe states
         probe_output = self.readout_function(probe_state).squeeze(1)
 
-        # print("probe_state.shape:", probe_state.shape) # => torch.Size([xxx, 128])  xxx: 原子数量
+        # print("probe_state.shape:", probe_state.shape) # => torch.Size([xxx, 128])  xxx: num atoms
         transformer_input = probe_state.unsqueeze(0)
         # print("transformer_input.shape:", transformer_input.shape)  # => torch.Size([1, xxx, 128])
 
