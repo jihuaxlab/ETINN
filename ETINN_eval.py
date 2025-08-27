@@ -103,7 +103,6 @@ def main():
     model, cutoff = load_model(args.model_dir, args.device, args)
 
     
-    # 创建数据集实例
     densitydata = dataset.OrbitalData(args.data, args.labels)
     
     # densitydata = torch.utils.data.ConcatDataset([dataset.DensityData(path) for path in filelist])
@@ -111,15 +110,6 @@ def main():
     # Split data into train and validation sets
     datasplits = split_data(densitydata, args)
     val_dataset = datasplits["validation"]
-
-    # print(val_dataset[0])
-    # print(val_dataset[1])
-
-    # print(val_dataset[0])
-    # print(val_dataset[1])
-    # print(len(val_dataset))
-    
-    # raise
     
     mse_list = []
     for i in range(len(val_dataset)):
@@ -175,21 +165,18 @@ def main():
                 device_batch["num_probes"] = probe_dict["num_probes"]
 
                 if isinstance(model, attnmodel.PainnETINNModel):
-                    res = model.probe_model(device_batch, atom_representation_scalar, atom_representation_vector)
+                    orb_distribution = model.probe_model(device_batch, atom_representation_scalar, atom_representation_vector)
                 else:
-                    res = model.probe_model(device_batch, atom_representation)
+                    orb_distribution = model.probe_model(device_batch, atom_representation)
 
-                orb_distribution = res
                 orb_distribution = orb_distribution.flatten().tolist()
                 print(orb_distribution, len(orb_distribution))
-                # 计算预测归一化后值
                 percentages_1 = np.array(orb_distribution)
                 normalized_data = percentages_1 / percentages_1.sum() * 100
-                # 计算MSE
+                # MSE
                 mse = np.mean((np.array(density_dict["density"]) - normalized_data) ** 2)
                 print("MSE: ", mse)
                 mse_list.append(mse)
-                # 将list转换为JSON格式
                 json_data = json.dumps({"prediction": normalized_data.tolist(), "label":density_dict["density"], "mse": mse})
                 log_dir = args.output_dir
                 os.makedirs(log_dir, exist_ok=True)
